@@ -1,1 +1,35 @@
-This is my irst repository
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> My First Webpage </title>
+        <meta charset="UTF-8">
+    </head>
+
+
+    <body>
+        <h1>Hello World</h1>
+        <a href="links/about.html">About</a>
+        <p></p>
+        <img src="images/dog.jpg" alt="The Dog Logo">
+        <p>ipsum dolor sit amet,<strong>consectetur adipiscing elit</strong> , sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.</p> 
+        <p><em>enim ad minim veniam</em> , quis nostrud exercitation ullamco laboris
+            nisi ut aliquip ex ea commodo consequat.</p>
+            <ul>
+                <li>Mango</li>
+                <li>Banana</li>
+                <li>Orange</li>
+                <li>Apple</li>
+            </ul>    
+ 
+            <ol>
+                <li>Mango</li>
+                <li>Banana</li>
+                <li>Orange</li>
+                <li>Apple</li>
+            </ol>    
+    
+
+    </body>
+
+</html>
